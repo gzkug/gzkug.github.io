@@ -95,10 +95,10 @@ params:
 
 menu:
   main:
-    - identifier: events
-      name: 历史活动
-      url: https://github.com/gzkug/events/issues
-      weight: 1
+    # - identifier: events
+    #   name: 历史活动
+    #   url: https://github.com/gzkug/events/issues
+    #   weight: 1
     - identifier: official
       name: 全球 KUGs
       url: https://kotlinlang.org/community/user-groups/
