@@ -1,6 +1,6 @@
 # 广州 KUG 站点
 
-https://gzkug.com
+https://gzkug.github.io
 
 ## 快速搭建一个 KUG 站点步骤：
  - [创建 Organization](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
